@@ -36,7 +36,7 @@ Behavioral Analysis: Identifies common beam switching scenarios (static, pedestr
 
 #### Outline of project
 
-- [capstone_aiml](#capstone_aiml)
+- [capstone_aiml](#capstone_aiml.ipynb)
 
 
 #### Contact and Further Information
