@@ -196,6 +196,7 @@ This project shows that machine learning can help build faster, smarter, and mor
 
 - [capstone_aiml.ipynb](capstone_aiml.ipynb)
 - [Capstone Project_Final Report_Robin Wang.docx](<Capstone Project_Final Report_Robin Wang.docx>)
+- [capstone_o1_60_tx10_rx1_10k_paths5_beam64.npz](capstone_o1_60_tx10_rx1_10k_paths5_beam64.npz)
 
 ---
 ## Contact
