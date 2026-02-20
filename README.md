@@ -14,7 +14,7 @@ The study evaluates multiple classification and regression algorithms, including
 
 ---
 
-## Problem Statement
+## Rationale and Problem Statement
 
 In 5G mmWave systems, maintaining a reliable connection requires accurate beam alignment between base stations and users. Traditional beam selection methods rely on repeated beam sweeping, which:
 
@@ -32,7 +32,7 @@ The objective is to compare model performance and identify the most effective ap
 
 ---
 
-## Model Objectives
+## Research Question and Model Objectives
 
 ### Task 1 – Classification
 
@@ -59,7 +59,7 @@ Predict the **maximum achievable beam gain / SNR**.
 Primary dataset:
 
 **DeepMIMO – O1_60 Scenario**  
-https://www.deepmimo.net/
+Official Website: [https://www.deepmimo.net/](https://www.deepmimo.net/)  
 
 The dataset provides:
 
@@ -107,7 +107,7 @@ These visualizations confirm learnability and feature separability in the datase
 
 ---
 
-## Machine Learning Models
+## Methodology and Machine Learning Models
 
 ### Classification Models
 
@@ -135,7 +135,7 @@ These visualizations confirm learnability and feature separability in the datase
 
 ---
 
-## Model Evaluation
+## Results and Model Evaluation
 
 ### Classification Metrics
 
@@ -172,7 +172,7 @@ This demonstrates the strong potential of AI-driven beam management in future 5G
 
 ---
 
-## Future Work
+## Next Steps and Future Work
 
 - Cross-scenario generalization testing (e.g., indoor vs urban)
 - Robustness under noise and interference
@@ -192,7 +192,12 @@ Wireless networks are evolving toward higher frequencies and more dynamic use ca
 This project shows that machine learning can help build faster, smarter, and more efficient wireless systems.
 
 ---
+#### Outline of project
 
+- [capstone_aiml.ipynb](capstone_aiml.ipynb)
+- [Capstone Project_Final Report_Robin Wang.docx](Capstone-Project_Final-Report_Robin-Wang.docx)
+
+---
 ## Contact
 
 Robin Wang  
